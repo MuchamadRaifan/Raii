@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rio Alamsyah</h1>
+<h1 align="center">Hi 👋, I'm Muchamad Raifan</h1>
 <h3 align="center">Frontend Developer ID</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkyz&label=Profile%20views&color=0e75b6&style=flat" alt="rkyz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkyz" alt="rkyz" /></a> </p>
 
-- 🌱 I’m currently learning **React,Vue,Golang**
+- 🌱 I’m currently learning **React,Laravel,Python**
 
 - 👯 I’m looking to collaborate on **github**
 
 - 🤝 I’m looking for help with **project**
 
-- 💬 Ask me about **React,Vue,Golang**
+- 💬 Ask me about **React,Vue,Python**
 
-- 📫 How to reach me **babakan176@gmail.com**
+- 📫 How to reach me **muhhamad.raifan987@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rio alamsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rio alamsyah" height="30" width="40" /></a>
-<a href="https://instagram.com/yooooooooooooooookk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yooooooooooooooookk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rio alamsyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rio alamsyah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muchamad-raifan-401913260/h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muchamad Raifan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mhmdraii26_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yooooooooooooooookk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
